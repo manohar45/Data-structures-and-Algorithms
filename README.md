@@ -1,2 +1,2 @@
 # Data-structures-and-Algorithms
-Practise question of various datastructures and algorithms
+Logic of various data structures and algorithms
